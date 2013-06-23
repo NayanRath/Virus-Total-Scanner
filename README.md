@@ -1,4 +1,4 @@
-vtScannerJava
+Virus-Total-Scanner
 =============
 
 Buenas, este repositorio es básicamente un proyecto de Java hecho con Eclipse en el que he usado el modelo MVC para implementar un sencillo programa que sube a www.virustotal.com un fichero y que posteriormente os puede devolver el resultado de su correspondiente análisis.
